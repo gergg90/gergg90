@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img src="https://img-9gag-fun.9cache.com/photo/am5jqv9_700bwp.webp">
+
+
 <!--
 **gergg90/gergg90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
