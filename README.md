@@ -1,24 +1,21 @@
 <div align="center">
-<h1 align="center">Hola, me llamo <a href="https://aristi.dev">Germain Gutierrez</a> 👋</h1>
-
-
+<h1 align="center">Hola, me llamo Germain Gutierrez 👋</h1>
+  
 <img src="https://img-9gag-fun.9cache.com/photo/am5jqv9_700bwp.webp">
 
 <br>
   
-## Tegnologias Backend:
-  
+## Tegnologias:
+
 - Python, Django, drf, fastapi.
-- mongodb, mongoatlas, mongodb in docker.
-- Postgresql, pgAdmin4, postgres in docker.
-- mysql, mysql workbench, mysql in docker.
+- mongodb, mongoatlas, mongodb.
+- Postgresql, pgAdmin4.
+- Mysql, mysql workbench.
 - Docker, Dockerfile, Dockercompose, docker exec. 
 - Api_rest.
 - Bash, bash scripts.
 - Gnu Linux Ubuntu.
-  
-  
-  
+
 <br>
   
   
