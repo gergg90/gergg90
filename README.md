@@ -4,17 +4,34 @@
 <img src="https://img-9gag-fun.9cache.com/photo/am5jqv9_700bwp.webp">
 
 <br>
+
+## Tegnologias fronted:
+- HTML + CSS.
+- Javascript.
+- React + React hooks.
+- NextJs 13.
   
-## Tegnologias:
+## Tegnologias backend:
 
 - Python, Django, drf, fastapi.
 - mongodb, mongoatlas, mongodb.
 - Postgresql, pgAdmin4.
-- Mysql, mysql workbench.
 - Docker, Dockerfile, Dockercompose, docker exec. 
 - Api_rest.
 - Bash, bash scripts.
 - Gnu Linux Ubuntu.
+
+## Tegnologias mobile:
+- Kotlin xml.
+- Mvvm.
+- Fragments.
+- Navigation Component.
+- Gradle KTS.
+- DaggerHilt.
+- Intent.
+- Animaciones(ObjectAnimator, AnimationUtils, AlphaAnimation).
+- StateFlow y corrutinas.
+- Retrofit.
 
 <br>
   
