@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, me llamo Germain Gutierrez 👋</h1>
   
-<img src="https://img-9gag-fun.9cache.com/photo/am5jqv9_700bwp.webp">
+<img src="https://ichef.bbci.co.uk/news/640/cpsprodpb/11D93/production/_121270137_gettyimages-584047706.jpg">
 
 <br>
 
