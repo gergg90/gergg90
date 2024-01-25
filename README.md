@@ -21,18 +21,6 @@
 - Bash, bash scripts.
 - Gnu Linux Ubuntu.
 
-## Tegnologias mobile:
-- Kotlin xml.
-- Mvvm.
-- Fragments.
-- Navigation Component.
-- Gradle KTS.
-- DaggerHilt.
-- Intent.
-- Animaciones(ObjectAnimator, AnimationUtils, AlphaAnimation).
-- StateFlow y corrutinas.
-- Retrofit.
-
 <br>
   
   
