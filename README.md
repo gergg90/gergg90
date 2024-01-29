@@ -5,26 +5,42 @@
 </div>
 <br>
 
-## Tegnologias fronted:
-- HTML + CSS.
+## Lenguajes:
 - Javascript.
-- React + React hooks.
-- NextJs 13.
-  
-## Tegnologias backend:
+- Typescript.
+- Python.
+- Kotlin.
 
-- Python, Django, drf, fastapi.
-- mongodb, mongoatlas, mongodb.
-- Postgresql, pgAdmin4.
-- Docker, Dockerfile, Dockercompose, docker exec. 
-- Api_rest.
-- Bash, bash scripts.
+## Tegnologias fronted:
+- HTML5 + CSS3.
+- React.
+- NextJs 13.
+
+## Tegnologias backend, SO & images:
+- Express.
+- Python, Django, Drf, Fastapi.
+- Api rest.
 - Gnu Linux Ubuntu.
+- Docker, Dockerfile, Dockercompose, docker exec.
+  
+## Tegnologias mobile android:
+- Arquitectura MVVM.
+- Fragments.
+- Navigation Components.
+- Refrofit.
+- Daggerhilt.
+- RecyclerView.
+- Intents.
+- Animation.
+
+## Bases de datos sql & nosql.
+- Mongodb, Mongoatlas.
+- Postgresql, pgAdmin4.
+
+
 
 <br>
-  
-  
-  
+
 <!--
 **gergg90/gergg90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
