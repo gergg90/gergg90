@@ -18,7 +18,7 @@
 
 ## Tegnologias backend, SO & images:
 - Express.
-- Python, Django, Drf, Fastapi.
+- Django, Drf, Fastapi.
 - Api rest.
 - Gnu Linux Ubuntu.
 - Docker, Dockerfile, Dockercompose, docker exec.
