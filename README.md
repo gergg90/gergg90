@@ -2,7 +2,7 @@
 <h1 align="center">Hola, me llamo Germain Gutierrez 👋</h1>
   
 <img src="https://ichef.bbci.co.uk/news/640/cpsprodpb/11D93/production/_121270137_gettyimages-584047706.jpg">
-
+</div>
 <br>
 
 ## Tegnologias fronted:
