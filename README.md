@@ -48,54 +48,32 @@
 <h2 align="left">⚙ Herramientas de desarrollo Backend.</h2>
 
 <div align="left">
-
- <div style="display: flex; justify-content: flex-start; gap: 15px">
-  
-  <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" height="40" alt="express logo"  />
-  <p>Express</p>
-
+<p>Express, Nextjs, Nodejs, Django, Fastapi.</p>
+<img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" height="40" alt="express logo"  />
+<img width="12" />
 <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="40" alt="nextjs logo"  />
-<p>NextJs</p>
-
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-<p>Nodejs</p>
-
-
+<img width="12" />
 <img src="https://1000marcas.net/wp-content/uploads/2021/06/Django-Logo.png" height="40" alt="django logo"  />
-  <p>Django</p>
-
-
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="40" alt="fastapi logo"  />
-  <p>Fastapi</p>
-
-
-  </div>
-
-
-
+<img width="12" />
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="40" alt="fastapi logo"  />
 </div>
 
 <h2 align="left">📊 Databases.</h2>
 <div align="left">
-
- <div style="display: flex; justify-content: flex-start; gap: 15px">
-
+<p>Postgresql, Mongodb, Prisma ORM.</p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <p>Postgresql</p>
-
+<img width="12" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1280px-MongoDB_Logo.svg.png" height="40" alt="mongodb logo"  />
-  <p>MongoDB</p>
-  
+<img width="12" />
 <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" height="40" alt="prisma logo"  />
-  <p>Prisma ORM</p>
-
-  </div>
+</div>
 
 
 
 </div>
 <h2 align="left">Connect with me:</h2>
-
 <div align="left">
 
   <a href="https://www.linkedin.com/in/gergg90/" target="_blank">
