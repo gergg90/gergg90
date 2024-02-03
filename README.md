@@ -9,11 +9,12 @@
 <h2 align="left">📖 Lenguajes de programacion.</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <p>Javascript</p>  
- <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <p>Typescript</p>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+ 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+ <p>Javascript</p>
+ <p>Typescript</p>
+ 
 
 <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" height="40" alt="python logo"  />
 <p>Python</p>
