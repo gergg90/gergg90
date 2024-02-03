@@ -15,55 +15,35 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
  <img width="12" />
  <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" height="40" alt="python logo"  />
-  <img width="12" />
+ <img width="12" />
  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="40" alt="kotlin logo"  />
-  <img width="12" />
-
+ <img width="12" />
+ 
 </div>
 
-###
 
 <h2 align="left">⚙ Herramientas de desarrollo Frontend.</h2>
 
 <div align="left">
-
- <div style="display: flex; justify-content: flex-start; gap: 15px">
  
+ <p>React, Redux, MaterialUI, Tailwind, Nextjs, Vite, HTML5, CSS3.</p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-<p>React</p>
-
+<img width="12" />
 <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo"  />
-<p>Redux</p>
-
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-<p>Material Ui</p>
-
-
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-<p>Tailwind Css</p>
-
-<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="40" alt="materialui logo"  />
-<p>NextJs</p>
-
+<img width="12" />
+<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="40" alt="nextjs logo"  />
+<img width="12" />
+<img src="https://img.jsdelivr.com/github.com/vitejs.png" height="40" alt="vite logo"  />
+<img width="12" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="40" alt="html5 logo"  />
+<img width="12" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" height="40" alt="css3 logo"  />
 
   </div>
-<div style="display: flex; justify-content: flex-start; gap: 15px">
-
-
-  <img src="https://img.jsdelivr.com/github.com/vitejs.png" height="40" alt="javascript logo"  />
-  <p>Vite</p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-<p>Nodejs</p>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="40" alt="html5 logo"  />
-<p>Html5</p>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" height="40" alt="css3 logo"  />
-<p>CSS3</p>
-
-</div>
-</div>
 
 <h2 align="left">⚙ Herramientas de desarrollo Backend.</h2>
 
