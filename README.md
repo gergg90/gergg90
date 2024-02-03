@@ -1,45 +1,140 @@
-<div align="center">
-<h1 align="center">Hola, me llamo Germain Gutierrez 👋</h1>
+ <h1 align="Center"> Eyy 👋🏼 que tal? </h1>
+
+<h2 align="left">🙋🏻‍♂️ Un poco Sobre mi.</h2>
+
+<p align="left">👋🏼 Hola, me llamo Germain Gutierrez.<br><br> ℹ️ - Soy un aspirante a full stack developer: con más de 10 años de experiencia en el sector de ventas retail. En dicho sector obtuve habilidades significativas como la comunicación, trabajo en equipo, creatividad, resolución de problemas, dedicación, enfoque, compromiso, honestidad y manejo de personal. Actualmente estoy desarrollando habilidades en el sector tecnológico con tecnologías a la vanguardia siempre respetando las bases y líneas de aprendizaje.<br><br> 💪🏼 - Soy una persona autodidacta con gran capacidad para la investigación, utilizando el recurso mas grande que tenemos los desarrolladores (internet). <br><br> He aprendido que para obtener resultados óptimos en el área del desarrollo, se necesita un buen enfoque sobre lo que quieres aprender, una gran constancia, practica, buen enfoque y sobre todo los trazar objetivos realistas para lo que quieres lograr.</p>
+
+###
+
+<h2 align="left">📖 Lenguajes de programacion.</h2>
+
+<div align="left">
+
+ <div style="display: flex; justify-content: flex-start; gap: 15px">
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <p>Javascript</p>
   
-<img src="https://ichef.bbci.co.uk/news/640/cpsprodpb/11D93/production/_121270137_gettyimages-584047706.jpg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <p>Typescript</p>
+
+<img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" height="40" alt="python logo"  />
+<p>Python</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="40" alt="kotlin logo"  />
+<p>Kotlin</p>
+
+  </div>
 </div>
-<br>
 
-## Lenguajes:
-- Javascript.
-- Typescript.
-- Python.
-- Kotlin.
+###
 
-## Tegnologias fronted:
-- HTML5 + CSS3.
-- React.
-- NextJs 13.
+<h2 align="left">⚙ Herramientas de desarrollo Frontend.</h2>
 
-## Tegnologias backend, SO & images:
-- Express.
-- Django, Drf, Fastapi.
-- Api rest.
-- Gnu Linux Ubuntu.
-- Docker, Dockerfile, Dockercompose, docker exec.
+<div align="left">
+
+ <div style="display: flex; justify-content: flex-start; gap: 15px">
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+<p>React</p>
+
+<img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo"  />
+<p>Redux</p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+<p>Material Ui</p>
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+<p>Tailwind Css</p>
+
+<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="40" alt="materialui logo"  />
+<p>NextJs</p>
+
+
+  </div>
+<div style="display: flex; justify-content: flex-start; gap: 15px">
+
+
+  <img src="https://img.jsdelivr.com/github.com/vitejs.png" height="40" alt="javascript logo"  />
+  <p>Vite</p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+<p>Nodejs</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="40" alt="html5 logo"  />
+<p>Html5</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" height="40" alt="css3 logo"  />
+<p>CSS3</p>
+
+</div>
+</div>
+
+<h2 align="left">⚙ Herramientas de desarrollo Backend.</h2>
+
+<div align="left">
+
+ <div style="display: flex; justify-content: flex-start; gap: 15px">
   
-## Tegnologias mobile android:
-- Arquitectura MVVM.
-- Fragments.
-- Navigation Components.
-- Refrofit.
-- Daggerhilt.
-- RecyclerView.
-- Intents.
-- Animation.
+  <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" height="40" alt="express logo"  />
+  <p>Express</p>
 
-## Bases de datos sql & nosql.
-- Mongodb, Mongoatlas.
-- Postgresql, pgAdmin4.
+<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="40" alt="nextjs logo"  />
+<p>NextJs</p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+<p>Nodejs</p>
 
 
+<img src="https://1000marcas.net/wp-content/uploads/2021/06/Django-Logo.png" height="40" alt="django logo"  />
+  <p>Django</p>
 
-<br>
+
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="40" alt="fastapi logo"  />
+  <p>Fastapi</p>
+
+
+  </div>
+
+
+
+</div>
+
+<h2 align="left">📊 Databases.</h2>
+<div align="left">
+
+ <div style="display: flex; justify-content: flex-start; gap: 15px">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <p>Postgresql</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1280px-MongoDB_Logo.svg.png" height="40" alt="mongodb logo"  />
+  <p>MongoDB</p>
+  
+<img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" height="40" alt="prisma logo"  />
+  <p>Prisma ORM</p>
+
+  </div>
+
+
+
+</div>
+<h2 align="left">Connect with me:</h2>
+
+<div align="left">
+
+  <a href="https://www.linkedin.com/in/gergg90/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  
+  <a href="https://api.whatsapp.com/send/?phone=584125604696" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+
+
+</div>
+
 
 <!--
 **gergg90/gergg90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
