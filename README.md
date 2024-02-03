@@ -9,18 +9,14 @@
 <h2 align="left">📖 Lenguajes de programacion.</h2>
 
 <div align="left">
+  <p>Javascript, Typescript, Python, Kotlin.</p>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
- 
+ <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
- <p>Javascript</p>
- <p>Typescript</p>
- 
-
-<img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" height="40" alt="python logo"  />
-<p>Python</p>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="40" alt="kotlin logo"  />
-<p>Kotlin</p>
+ <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" height="40" alt="python logo"  />
+  <img width="12" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="40" alt="kotlin logo"  />
+  <img width="12" />
 
 </div>
 
