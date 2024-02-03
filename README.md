@@ -10,7 +10,6 @@
 
 <div align="left">
 
- <div style="display: flex; justify-content: flex-start; gap: 15px">
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <p>Javascript</p>
@@ -24,7 +23,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="40" alt="kotlin logo"  />
 <p>Kotlin</p>
 
-  </div>
 </div>
 
 ###
