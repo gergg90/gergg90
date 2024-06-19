@@ -26,7 +26,7 @@
 <h2 align="left">⚙ Herramientas de desarrollo Frontend.</h2>
 
  
- <p>React, Redux, MaterialUI, Tailwind, Nextjs, Vite, HTML5, CSS3.</p>
+ <p>React, Redux, zustand, MaterialUI, Tailwind, Nextjs, Vite, HTML5, CSS3.</p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 <img width="12" />
 <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo"  />
